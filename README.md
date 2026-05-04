@@ -404,7 +404,7 @@ User A                    Firebase                    User B
 
 **I am actively seeking:**
 - Mobile Developer (Android/Kotlin) roles
-- Backend Software Engineer (Python/Flask) roles
+- Backend Software Engineer (Python/Flask/NodeJs) roles
 - Full-Stack Engineer roles
 - Platform/DevOps Engineer roles
 
