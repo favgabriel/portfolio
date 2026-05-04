@@ -2,8 +2,8 @@
 
 > **Software Engineer** | Mobile & Backend Development | Available for UK Opportunities
 
-[![Email](https://img.shields.io/badge/Email-your.email%40example.com-blue)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-aighangbe%40gmail.com-blue)](mailto:aighangbe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/favour-gabriel)
 [![Location](https://img.shields.io/badge/Location-Available%20to%20relocate%20to%20UK-green)]()
 
 ---
@@ -353,13 +353,13 @@ User A                    Firebase                    User B
 **Purpose:** Demonstrate SoloChat architecture patterns in a public repository  
 **Tech:** Kotlin, Firebase, WebRTC  
 **Status:** In development (target: 2 weekends)  
-**Repository:** [github.com/yourname/chatclone](https://github.com/yourname/chatclone) *(placeholder)*
+**Repository:** [github.com/favgabriel/chatclone](https://github.com/favgabriel/chatclone) *(placeholder)*
 
 ### UK Transit Tracker
 **Purpose:** Location-based transit app demonstrating Google Maps API + public API integration  
 **Tech:** Kotlin, Google Maps API, Transport API, Retrofit  
 **Status:** Concept phase  
-**Repository:** [github.com/yourname/uk-transit](https://github.com/yourname/uk-transit) *(placeholder)*
+**Repository:** [github.com/favgabriel/uk-transit](https://github.com/favgabriel/uk-transit) *(placeholder)*
 
 ---
 
@@ -396,8 +396,8 @@ User A                    Firebase                    User B
 
 ## Contact & Availability
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** [aighangbe@gmail.com](mailto:aighangbe@gmail.com)
+- **LinkedIn:** [linkedin.com/in/favour-gabriel](https://linkedin.com/in/favour-gabriel)
 - **Location:** Currently in Nigeria, **available to relocate to UK**
 - **Visa:** Require Skilled Worker visa sponsorship
 - **Availability:** Immediately available for interview
